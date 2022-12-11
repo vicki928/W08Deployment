@@ -20,9 +20,8 @@ Loan term: Less the time period has higher chances of approval.
 
 2. Loan Status: Y: 422, N: 192 - 69% people out of 614 got the approval.
 
-3a. Datatype png is attached see. 3b.
+3. Datatype png is attached. dtypes.png
 
-3b.![](../dtypes.png)   
 
 4.  80% of applicants in the dataset are male.
    
