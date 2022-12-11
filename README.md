@@ -89,9 +89,8 @@ Grid Search
 
 ## Challanges 
 
-I have a very difficult time on the deployment. app.py is attached. Kept getting OSError: [Errno 48] Address already in use.
+I had a very difficult time on the deployment.  got it worked with help.
 
-Need to talk to a mentor to solve the issue.
 
 ## Future Goals
 
